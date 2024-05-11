@@ -17,6 +17,8 @@
   <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=edisonlee55&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
 <!--
